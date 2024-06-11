@@ -1,5 +1,5 @@
 # Monorepository proof of concept
-# Author: Ryan Shaughnessy (ryan.shaughnessy@cbre.com)
+# Author: Patrick Harden (patrick.harden@cbre.com)
 
 ### Getting Started ###
 (1) Install yarn (https://classic.yarnpkg.com/en/)
