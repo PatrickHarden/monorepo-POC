@@ -1,0 +1,11 @@
+# This is a comment.
+# Each line is a file pattern followed by one or more owners.
+
+# Default Code Owner
+@cbreenterprise/global-listings-approvers
+
+# Global Listings Components
+/packages/globallistings/* @cbreenterprise/global-listings-approvers
+
+# Spacespot components
+# /packages/spacespot/* @cbreenterprise/spacespot-approvers

@@ -1,0 +1,26 @@
+import {Meta, Story, Canvas, ArgsTable} from '@storybook/addon-docs/blocks';
+import GLCheckbox, { Props } from '../checkbox';
+
+<Meta title="GLCheckbox" component={GLCheckbox}/>
+
+# GLCheckbox
+
+##### Package: gl-controls
+
+<ArgsTable of={GLCheckbox} title="Inputs"/>
+
+#### Below is an example of an unchecked state for the checkbox
+
+<Canvas>
+  <Story name="Unchecked">
+      <GLCheckbox name="unchecked" label="Unchecked" checked={false}/>
+  </Story>
+</Canvas>
+
+#### Below is an example of a checked state for the checkbox
+
+<Canvas>
+  <Story name="Checked">
+      <GLCheckbox name="checked" label="I'm Checked" checked={true}/>
+  </Story>
+</Canvas>

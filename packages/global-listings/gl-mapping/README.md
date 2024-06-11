@@ -1,0 +1,1 @@
+# the files contained in this folder are a template for adding a new package to the monorepository
